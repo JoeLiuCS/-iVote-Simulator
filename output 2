@@ -1,0 +1,118 @@
+!!!!Game Beginning!!!!
+Random :Question Type & number of Answers & number of people 
+
+'S' means Single choice question, 'M' means Multiple choice questions
+Question type is : M
+How many answer for the question :5
+# of the student in the class :30
+======================================
+A : 10
+B : 12
+C : 11
+D : 13
+E : 14
+======================================
+Student ID 26037837 Picked: [4, 3]
+Student ID 12215529 Picked: [2, 3]
+Student ID 14128077 Picked: [5, 4]
+Student ID 72858205 Picked: [3, 2]
+Student ID 28472387 Picked: [5, 1]
+Student ID 76830540 Picked: [3, 2]
+Student ID 75983848 Picked: [4, 2]
+Student ID 32981709 Picked: [1, 3]
+Student ID 54967889 Picked: [5, 2]
+Student ID 34296156 Picked: [2, 5]
+Student ID 19143742 Picked: [4, 5]
+Student ID 98099661 Picked: [1, 3]
+Student ID 14687599 Picked: [4, 1]
+Student ID 32537996 Picked: [1, 5]
+Student ID 34672796 Picked: [1, 5]
+Student ID 54573671 Picked: [3, 4]
+Student ID 75106311 Picked: [3, 4]
+Student ID 55577533 Picked: [1, 4]
+Student ID 22273870 Picked: [5, 2]
+Student ID 32840066 Picked: [5, 2]
+Student ID 81927281 Picked: [1, 4]
+Student ID 84001455 Picked: [3, 5]
+Student ID 28002422 Picked: [5, 1]
+Student ID 49166363 Picked: [2, 4]
+Student ID 16976529 Picked: [1, 2]
+Student ID 45150722 Picked: [2, 4]
+Student ID 84996664 Picked: [4, 2]
+Student ID 53382491 Picked: [3, 5]
+Student ID 48781860 Picked: [5, 3]
+Student ID 28080921 Picked: [4, 5]
+
+
+======== The student want to change answer=======
+Student ID 48781860 Wants to change Answer
+The old Answer is :[5, 3]
+The new Answer is :[2, 2]
+Student ID 45150722 Wants to change Answer
+The old Answer is :[2, 4]
+The new Answer is :[2, 5]
+Student ID 16976529 Wants to change Answer
+The old Answer is :[1, 2]
+The new Answer is :[5, 5]
+Student ID 22273870 Wants to change Answer
+The old Answer is :[5, 2]
+The new Answer is :[3, 5]
+Student ID 14687599 Wants to change Answer
+The old Answer is :[4, 1]
+The new Answer is :[1, 5]
+Student ID 72858205 Wants to change Answer
+The old Answer is :[3, 2]
+The new Answer is :[5, 1]
+Student ID 14128077 Wants to change Answer
+The old Answer is :[5, 4]
+The new Answer is :[1, 3]
+Student ID 14128077 Wants to change Answer
+The old Answer is :[1, 3]
+The new Answer is :[3, 5]
+Student ID 14128077 Wants to change Answer
+The old Answer is :[3, 5]
+The new Answer is :[5, 4]
+Student ID 12215529 Wants to change Answer
+The old Answer is :[2, 3]
+The new Answer is :[1, 3]
+
+
+============== Final result =====================
+======================================
+A : 11
+B : 10
+C : 10
+D : 11
+E : 18
+======================================
+Student ID 26037837 Picked: [4, 3]
+Student ID 12215529 Picked: [1, 3]
+Student ID 14128077 Picked: [5, 4]
+Student ID 72858205 Picked: [5, 1]
+Student ID 28472387 Picked: [5, 1]
+Student ID 76830540 Picked: [3, 2]
+Student ID 75983848 Picked: [4, 2]
+Student ID 32981709 Picked: [1, 3]
+Student ID 54967889 Picked: [5, 2]
+Student ID 34296156 Picked: [2, 5]
+Student ID 19143742 Picked: [4, 5]
+Student ID 98099661 Picked: [1, 3]
+Student ID 14687599 Picked: [1, 5]
+Student ID 32537996 Picked: [1, 5]
+Student ID 34672796 Picked: [1, 5]
+Student ID 54573671 Picked: [3, 4]
+Student ID 75106311 Picked: [3, 4]
+Student ID 55577533 Picked: [1, 4]
+Student ID 22273870 Picked: [3, 5]
+Student ID 32840066 Picked: [5, 2]
+Student ID 81927281 Picked: [1, 4]
+Student ID 84001455 Picked: [3, 5]
+Student ID 28002422 Picked: [5, 1]
+Student ID 49166363 Picked: [2, 4]
+Student ID 16976529 Picked: [5, 5]
+Student ID 45150722 Picked: [2, 5]
+Student ID 84996664 Picked: [4, 2]
+Student ID 53382491 Picked: [3, 5]
+Student ID 48781860 Picked: [2, 2]
+Student ID 28080921 Picked: [4, 5]
+=================================================

@@ -1,0 +1,140 @@
+!!!!Game Beginning!!!!
+Random :Question Type & number of Answers & number of people 
+
+'S' means Single choice question, 'M' means Mutiple choice questions
+Question type is : S
+How many answer for the question :4
+# of the student in the class :39
+======================================
+A : 7
+B : 10
+C : 14
+D : 8
+======================================
+Student ID 50266359 Picked: [3]
+Student ID 60996935 Picked: [2]
+Student ID 61215964 Picked: [1]
+Student ID 98251197 Picked: [3]
+Student ID 11638276 Picked: [3]
+Student ID 18761619 Picked: [4]
+Student ID 97990920 Picked: [2]
+Student ID 39360465 Picked: [2]
+Student ID 12246043 Picked: [1]
+Student ID 46657926 Picked: [3]
+Student ID 19580914 Picked: [1]
+Student ID 53796166 Picked: [3]
+Student ID 75364129 Picked: [4]
+Student ID 45939278 Picked: [3]
+Student ID 56686303 Picked: [4]
+Student ID 27746264 Picked: [1]
+Student ID 87138132 Picked: [4]
+Student ID 71031231 Picked: [3]
+Student ID 63966004 Picked: [1]
+Student ID 79527503 Picked: [3]
+Student ID 15551907 Picked: [2]
+Student ID 63821923 Picked: [1]
+Student ID 35942466 Picked: [4]
+Student ID 83200349 Picked: [2]
+Student ID 36120181 Picked: [4]
+Student ID 41339135 Picked: [3]
+Student ID 18252867 Picked: [3]
+Student ID 49890758 Picked: [2]
+Student ID 86316217 Picked: [2]
+Student ID 32351386 Picked: [4]
+Student ID 51456328 Picked: [2]
+Student ID 60876742 Picked: [2]
+Student ID 73097629 Picked: [4]
+Student ID 10549640 Picked: [3]
+Student ID 92116664 Picked: [3]
+Student ID 30022977 Picked: [3]
+Student ID 63059474 Picked: [1]
+Student ID 59397768 Picked: [3]
+Student ID 21202522 Picked: [2]
+
+
+======== The student want to change answer=======
+Student ID 59397768 Wants to change Answer
+The old Answer is :[3]
+The new Answer is :[1]
+Student ID 32351386 Wants to change Answer
+The old Answer is :[4]
+The new Answer is :[2]
+Student ID 83200349 Wants to change Answer
+The old Answer is :[2]
+The new Answer is :[3]
+Student ID 45939278 Wants to change Answer
+The old Answer is :[3]
+The new Answer is :[1]
+Student ID 53796166 Wants to change Answer
+The old Answer is :[3]
+The new Answer is :[1]
+Student ID 19580914 Wants to change Answer
+The old Answer is :[1]
+The new Answer is :[2]
+Student ID 97990920 Wants to change Answer
+The old Answer is :[2]
+The new Answer is :[4]
+Student ID 11638276 Wants to change Answer
+The old Answer is :[3]
+The new Answer is :[1]
+Student ID 61215964 Wants to change Answer
+The old Answer is :[1]
+The new Answer is :[4]
+Student ID 60996935 Wants to change Answer
+The old Answer is :[2]
+The new Answer is :[4]
+Student ID 60996935 Wants to change Answer
+The old Answer is :[4]
+The new Answer is :[3]
+Student ID 60996935 Wants to change Answer
+The old Answer is :[3]
+The new Answer is :[2]
+
+
+============== Final result =====================
+======================================
+A : 9
+B : 10
+C : 11
+D : 9
+======================================
+Student ID 50266359 Picked: [3]
+Student ID 60996935 Picked: [2]
+Student ID 61215964 Picked: [4]
+Student ID 98251197 Picked: [3]
+Student ID 11638276 Picked: [1]
+Student ID 18761619 Picked: [4]
+Student ID 97990920 Picked: [4]
+Student ID 39360465 Picked: [2]
+Student ID 12246043 Picked: [1]
+Student ID 46657926 Picked: [3]
+Student ID 19580914 Picked: [2]
+Student ID 53796166 Picked: [1]
+Student ID 75364129 Picked: [4]
+Student ID 45939278 Picked: [1]
+Student ID 56686303 Picked: [4]
+Student ID 27746264 Picked: [1]
+Student ID 87138132 Picked: [4]
+Student ID 71031231 Picked: [3]
+Student ID 63966004 Picked: [1]
+Student ID 79527503 Picked: [3]
+Student ID 15551907 Picked: [2]
+Student ID 63821923 Picked: [1]
+Student ID 35942466 Picked: [4]
+Student ID 83200349 Picked: [3]
+Student ID 36120181 Picked: [4]
+Student ID 41339135 Picked: [3]
+Student ID 18252867 Picked: [3]
+Student ID 49890758 Picked: [2]
+Student ID 86316217 Picked: [2]
+Student ID 32351386 Picked: [2]
+Student ID 51456328 Picked: [2]
+Student ID 60876742 Picked: [2]
+Student ID 73097629 Picked: [4]
+Student ID 10549640 Picked: [3]
+Student ID 92116664 Picked: [3]
+Student ID 30022977 Picked: [3]
+Student ID 63059474 Picked: [1]
+Student ID 59397768 Picked: [1]
+Student ID 21202522 Picked: [2]
+=================================================
